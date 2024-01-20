@@ -13,7 +13,7 @@ const HeroSection = () => {
         <TabsContent value="MENTEE">
           <div className="mt-4">
             <SectionHeader
-              subHeader="Connect with experienced mentors s c to achieve your career goals in tech."
+              subHeader="Connect with experienced mentors s c d to achieve your career goals in tech."
               wrapperClassName="space-y-6 lg:w-auto mb-12 w"
               headerClassName="text-4xl leading-[2.75rem]  lg:text-[4.5rem] lg:leading-[5.625rem]"
             >
