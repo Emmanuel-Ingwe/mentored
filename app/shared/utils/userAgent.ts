@@ -1,0 +1,40 @@
+export function isCrawler(userAgent: string): boolean {
+  const crawlers = [
+    'googlebot',
+    'bingbot',
+    'yahoo! slurp',
+    'duckduckbot',
+    'baiduspider',
+    'yandexbot',
+    'sogou',
+    'exabot',
+    'facebot',
+    'ia_archiver',
+    'twitterbot',
+    'rogerbot',
+    'linkedinbot',
+    'embedly',
+    'quora link preview',
+    'showyoubot',
+    'outbrain',
+    'pinterest/0.',
+    'developers.google.com/+/web/snippet',
+    'slackbot',
+    'vkShare',
+    'W3C_Validator',
+    'redditbot',
+    'Applebot',
+    'WhatsApp',
+    'flipboard',
+    'tumblr',
+    'bitlybot',
+    'SkypeUriPreview',
+    'nuzzel',
+    'Discordbot',
+    'Google Page Speed',
+    'Qwantify',
+  ];
+
+  const pattern = new RegExp(crawlers.join('|'), 'i');
+  return pattern.test(userAgent);
+}

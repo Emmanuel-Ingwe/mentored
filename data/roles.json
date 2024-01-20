@@ -1,0 +1,50 @@
+[
+  {
+    "label": "Frontend Developer/Engineer",
+    "value": "Frontend Developer/Engineer"
+  },
+  {
+    "label": "Backend Developer/Engineer",
+    "value": "Backend Developer/Engineer"
+  },
+  {
+    "label": "Fullstack Developer/Engineer",
+    "value": "Fullstack Developer/Engineer"
+  },
+  {
+    "label": "Engineering Manager",
+    "value": "Engineering Manager"
+  },
+  {
+    "label": "Product Manager",
+    "value": "Product Manager"
+  },
+  {
+    "label": "UI/UX Designer",
+    "value": "UI/UX Designer"
+  },
+  {
+    "label": "QA Engineer",
+    "value": "QA Engineer"
+  },
+  {
+    "label": "DevOps Engineer",
+    "value": "DevOps Engineer"
+  },
+  {
+    "label": "Artificial Intelligence/Machine Learning Engineer",
+    "value": "Artificial Intelligence/Machine Learning Engineer"
+  },
+  {
+    "label": "Data Scientist",
+    "value": "Data Scientist"
+  },
+  {
+    "label": "Cloud Architect",
+    "value": "Cloud Architect"
+  },
+  {
+    "label": "Cybersecurity Engineer",
+    "value": "Cybersecurity Engineer"
+  }
+]
