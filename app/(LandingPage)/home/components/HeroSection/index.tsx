@@ -27,7 +27,7 @@ const HeroSection = () => {
           </div>
         </TabsContent>
         <TabsContent value="MENTOR">
-          <div className="d s mt-4 text-center">
+          <div className="d mt-4 text-center">
             <SectionHeader
               subHeader="Join MentorsHub and make a meaningful impact on future tech leaders."
               wrapperClassName="space-y-6 lg:w-auto"
