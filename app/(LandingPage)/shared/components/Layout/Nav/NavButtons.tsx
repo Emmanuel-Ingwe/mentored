@@ -51,7 +51,6 @@ const NavButtons = ({ className }: Props) => {
       >
         Log In
       </Link>
-
       <Link
         href="/register"
         className="rounded-lg border border-primaryx bg-primaryx px-4 py-2.5 text-center font-semibold text-white  shadow-sm max-lg:w-full lg:ml-4 lg:py-2 lg:text-sm "
